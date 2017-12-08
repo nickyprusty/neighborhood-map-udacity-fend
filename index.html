@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+	
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tourist places in Bhubaneswar">
+	<title>Incredible Bhubaneswar</title>
+	<link rel="stylesheet" href="styles.css">
+	
+
+</head>
+<body>
+  <main><div id="map"></div></main>
+  <header><h1>HOTELS IN BHUBANESWAR</h1></header>
+  <div class="options-box">
+    <div>
+      <input id="search-panel" type="text" placeholder="Enter your favorite HOTEL!" data-bind="textInput: userInput, event: {keyup: filterMarkers}">
+    </div>
+    <hr>
+    <nav>
+      <div id="list">
+        <ul id="list-item" data-bind="foreach: choice">
+          <li data-bind="text: name,  click: $parent.showInfo">  
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+      <div id="error"></div>
+  
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.0/knockout-min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+	 <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALywcpZgiP3LAK08SysQJ8nu2YRZcgzcU&v=3&callback=initMap" onerror="serverError()">
+    </script>
+
+</body>
+</html>
