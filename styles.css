@@ -1,0 +1,73 @@
+      
+
+      input {
+        font-size: 12px;
+      }
+
+      h1 {
+        position: relative;
+        color: white;
+        font-size: 20px;
+        margin: 0 0 10px 0;
+        text-align: center;
+        background-color:black; 
+      }
+
+      
+
+      hr {
+        background: white;
+        height: 1px;
+        margin: 20px 0 20px 0;
+        border: none;
+      }
+
+      #map {
+        bottom:0px;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        right: 0px;
+      }
+
+      .options-box {
+        position: relative;
+        background:black;
+        height: 100%;
+
+        padding: 10px 10px 30px 10px;
+
+        width: 25%;
+        margin-right: 5px;
+      }
+
+      #search-panel{
+        width: 90%;
+        position: relative;
+        position: center;
+        height: 25px;
+      }
+
+
+      #list-item {
+        position: relative;
+        overflow: auto;
+        background-color: #fff;
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+      }
+
+      li:after {
+        content: ", ";
+      }
+
+      li:last-child:after {
+        content: "";
+      }
+
+      .text {
+        font-size: 12px;
+      }
+
+
