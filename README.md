@@ -17,9 +17,9 @@ Note: A running internet connection is required for this app to function.
 Click on the link: https://nickyprusty.github.io/neighborhood-map-udacity-fend.com/
 
 ###### By downloading and installing the github repository
-1.	The user needs to clone or download the github repository from: .
+1.	The user needs to clone or download the github repository from: https://github.com/nickyprusty/neighborhood-map-udacity-fend.com.
 2.	Now that the file is downloaded it can be accessed locally by following the steps below:
-  a.	Extract all the files in myneighborhood-map.zip file into one folder (e.g.- My Neighborhood Map folder) and store it in your local        drive.
+  a.	Extract all the files into one folder (e.g.- My Neighborhood Map folder) and store it in your local drive.
   b.	Connect your device to the internet.
   c.	Open the folder (e.g.- My Neighborhood Map folder)  you stored the files extracted in.
   d.	Open the index.html file in your browser.
