@@ -6,10 +6,18 @@
 
 The app shows a single page map of Bhubaneswar Urban. There are markers indicating the location of several hotels in Bhubaneswar. It also contains a list of the hotels.
 
-## How to Download, Install and Run:
+## How to Run:
 
 Note: A running internet connection is required for this app to function.
-1.	The user needs to download the myneighborhood.zip file.
+
+##### There can be two ways to run the app:
+
+###### Direct via website:
+
+Click on the link: https://nickyprusty.github.io/neighborhood-map-udacity-fend.com/
+
+###### By downloading and installing the github repository
+1.	The user needs to clone or download the github repository from: .
 2.	Now that the file is downloaded it can be accessed locally by following the steps below:
   a.	Extract all the files in myneighborhood-map.zip file into one folder (e.g.- My Neighborhood Map folder) and store it in your local        drive.
   b.	Connect your device to the internet.
