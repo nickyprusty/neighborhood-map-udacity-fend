@@ -1,21 +1,27 @@
 # neighborhood-map-udacity-fend
+
 #Neighborhood Map Project:
+
 ##About the Project:
+
 The app shows a single page map of Bhubaneswar Urban. There are markers indicating the location of several hotels in Bhubaneswar. It also contains a list of the hotels.
 
 ##How to Download, Install and Run:
+
 Note: A running internet connection is required for this app to function.
 1.	The user needs to download the myneighborhood.zip file.
 2.	Now that the file is downloaded it can be accessed locally by following the steps below:
-a.	Extract all the files in myneighborhood-map.zip file into one folder (e.g.- My Neighborhood Map folder) and store it in your local drive.
-b.	Connect your device to the internet.
-c.	Open the folder (e.g.- My Neighborhood Map folder)  you stored the files extracted in.
-d.	Open the index.html file in your browser.
-e.	The user will see a full page map with a search panel and list of the places.
-f.	In case there is an error:
-•	Try reconnecting your device to the internet
-•	Then try refreshing the index.html page
+  a.	Extract all the files in myneighborhood-map.zip file into one folder (e.g.- My Neighborhood Map folder) and store it in your local        drive.
+  b.	Connect your device to the internet.
+  c.	Open the folder (e.g.- My Neighborhood Map folder)  you stored the files extracted in.
+  d.	Open the index.html file in your browser.
+  e.	The user will see a full page map with a search panel and list of the places.
+  f.	In case there is an error:
+      •	Try reconnecting your device to the internet
+      •	Then try refreshing the index.html page
+
 ##What the app shows and does:
+
 ### Filter Locations
 - Includes a text input field that filters the map markers and list items to locations matching the text input or selection. Filter function runs error-free.
 
