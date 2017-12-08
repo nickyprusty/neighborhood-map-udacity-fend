@@ -1,12 +1,12 @@
 # neighborhood-map-udacity-fend
 
-#Neighborhood Map Project:
+# Neighborhood Map Project:
 
-##About the Project:
+## About the Project:
 
 The app shows a single page map of Bhubaneswar Urban. There are markers indicating the location of several hotels in Bhubaneswar. It also contains a list of the hotels.
 
-##How to Download, Install and Run:
+## How to Download, Install and Run:
 
 Note: A running internet connection is required for this app to function.
 1.	The user needs to download the myneighborhood.zip file.
@@ -20,7 +20,7 @@ Note: A running internet connection is required for this app to function.
       •	Try reconnecting your device to the internet
       •	Then try refreshing the index.html page
 
-##What the app shows and does:
+## What the app shows and does:
 
 ### Filter Locations
 - Includes a text input field that filters the map markers and list items to locations matching the text input or selection. Filter function runs error-free.
@@ -38,9 +38,9 @@ Note: A running internet connection is required for this app to function.
 - Clicking a marker displays unique information about a location in either an `infoWindow`.
 - Markers should animate when clicked (e.g. bouncing)
 
-##APIs and Resources used:
+## APIs and Resources used:
 
-###API used:
+### API used:
 #### [Foursquare API]:
 URL: https://api.foursquare.com/v2/venues/
 Client ID: UTEUH3OGF5Y5JDIRKJAHZQXIVVCCPXKJBQ0VRBN3WA30MCV2
@@ -56,7 +56,7 @@ URL: https://maps.googleapis.com/maps/api/js?key=AIzaSyALywcpZgiP3LAK08SysQJ8nu2
 * [MDN : GlobalEventHandlers.onerror](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onerror)
 * [MDN : Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 * [CSS-Tricks : Using Fetch](https://css-tricks.com/using-fetch/)
-##Resources used:
+## Resources used:
 •	http://knockoutjs.com/documentation/introduction.html
 •	http://learn.knockoutjs.com/
 •	https://developers.google.com/maps/documentation/javascript/
