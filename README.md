@@ -18,14 +18,23 @@ Click on the link: https://nickyprusty.github.io/neighborhood-map-udacity-fend.c
 
 ###### By downloading and installing the github repository
 1.	The user needs to clone or download the github repository from: https://github.com/nickyprusty/neighborhood-map-udacity-fend.com.
+
 2.	Now that the file is downloaded it can be accessed locally by following the steps below:
+
   a.	Extract all the files into one folder (e.g.- My Neighborhood Map folder) and store it in your local drive.
+  
   b.	Connect your device to the internet.
+  
   c.	Open the folder (e.g.- My Neighborhood Map folder)  you stored the files extracted in.
+  
   d.	Open the index.html file in your browser.
+  
   e.	The user will see a full page map with a search panel and list of the places.
+  
   f.	In case there is an error:
+  
       •	Try reconnecting your device to the internet
+      
       •	Then try refreshing the index.html page
 
 ## What the app shows and does:
@@ -38,12 +47,16 @@ Click on the link: https://nickyprusty.github.io/neighborhood-map-udacity-fend.c
 
 ### List View
 - A list-view of location names is provided which displays all locations by default, and displays the filtered subset of locations when a filter is applied.
-- Clicking a location on the list displays unique information about the location, and animates its associated map marker (e.g. bouncing)
+
+- Clicking a location on the list displays unique information about the location, and animates its associated map marker (e.g. bouncing).
+
 - List functionality is responsive and runs error free.
 
 ### Map and Markers
 - Map displays all location markers by default, and displays the filtered subset of location markers when a filter is applied.
+
 - Clicking a marker displays unique information about a location in either an `infoWindow`.
+
 - Markers should animate when clicked (e.g. bouncing)
 
 ## APIs and Resources used:
@@ -59,6 +72,7 @@ URL: https://maps.googleapis.com/maps/api/js?key=AIzaSyALywcpZgiP3LAK08SysQJ8nu2
 ### Javascript:
 
 * [KnockoutJS](http://knockoutjs.com/)
+
 * [MDN : strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 * [MDN : Object.freeze](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
 * [MDN : GlobalEventHandlers.onerror](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onerror)
@@ -66,16 +80,27 @@ URL: https://maps.googleapis.com/maps/api/js?key=AIzaSyALywcpZgiP3LAK08SysQJ8nu2
 * [CSS-Tricks : Using Fetch](https://css-tricks.com/using-fetch/)
 ## Resources used:
 •	http://knockoutjs.com/documentation/introduction.html
+
 •	http://learn.knockoutjs.com/
+
 •	https://developers.google.com/maps/documentation/javascript/
+
 •	https://support.foursquare.com/hc/en-us/search?query=apetite+bhubaneswar
+
 •	https://support.foursquare.com/hc/en-us/categories/200071594
+
 •	https://stackoverflow.com/questions/31850887/foursquare-menu-endpoint-returning-error-code-400-bad-request
+
 •	https://stackoverflow.com/questions/26003374/get-the-venue-id-from-the-foursquare-url
+
 •	https://gist.github.com/search?l=JSON&q=foursquare+api+&ref=searchresults&utf8=%E2%9C%93
+
 •	https://github.com/lacyjpr/neighborhood
+
 •	https://github.com/mchalet/Neighborhood-Map
+
 •	https://discussions.udacity.com/t/inconsistent-results-from-foursquare/39625
+
 •	https://discussions.udacity.com/t/having-trouble-accessing-data-outside-an-ajax-request/39072
 
 
